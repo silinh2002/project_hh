@@ -1,6 +1,6 @@
 module.exports = (data) => {
   return {
-    status: 'ok',
+    status: 'success',
     data: data
   };
 };
